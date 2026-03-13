@@ -74,3 +74,28 @@ Goal: Uncover customer ordering behavior, restaurant performance, category & dis
 -- Total Orders
 SELECT COUNT(order_id) AS Total_Orders
 FROM fact_swiggy_orders;
+
+-- Total Revenue (formatted in INR Million)
+SELECT CONCAT(FORMAT(SUM(price_inr) / 1000000, 2), ' INR Million') AS Total_Revenue
+FROM fact_swiggy_orders;
+
+-- Average Dish Price
+SELECT CONCAT(FORMAT(AVG(price_inr), 2), ' INR') AS Average_Dish_Price
+FROM fact_swiggy_orders;
+
+-- Average Customer Rating
+SELECT ROUND(AVG(rating), 1) AS Average_Rating
+FROM fact_swiggy_orders;
+
+---
+
+## KPI Overview
+
+| KPI                  | Value     |
+|----------------------|-----------|
+| Total Orders         | 173K      |
+| Total Revenue        | ₹45.81M   |
+| Average Dish Price   | ₹264.36   |
+| Average Rating       | 4.34      |
+
+## 🔄 Complete Data Analysis Workflow
