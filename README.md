@@ -86,6 +86,7 @@ FROM fact_swiggy_orders;
 -- Average Customer Rating
 SELECT ROUND(AVG(rating), 1) AS Average_Rating
 FROM fact_swiggy_orders;
+```
 
 ---
 
