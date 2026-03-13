@@ -103,21 +103,14 @@ FROM fact_swiggy_orders;
 
 ## 🔄 Complete Data Analysis Workflow
 
-Raw Dataset
-↓
-SQL – Data Cleaning & Transformation
-↓
-Star Schema Modeling (Fact + Dimensions)
-↓
-KPI Development (SQL)
-↓
-Power BI – Import & Data Model
-↓
-DAX Measures & Calculated Columns
-↓
-Interactive Dashboard Creation
-↓
-Business Insights & Recommendations
+1. Raw Dataset  
+2. SQL – Data Cleaning & Transformation  
+3. Star Schema Modeling (Fact + Dimensions)  
+4. KPI Development (SQL)  
+5. Power BI – Import & Data Model  
+6. DAX Measures & Calculated Columns  
+7. Interactive Dashboard Creation  
+8. Business Insights & Recommendations
 
 ---
 
