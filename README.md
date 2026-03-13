@@ -137,6 +137,14 @@ This type of analysis helps food delivery platforms like **Swiggy / Zomato** to:
 
 ---
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📸 Dashboard Screenshots
+
+Here are some key views from the interactive Power BI dashboard:
+
+
+
 ## 📌 Conclusion
 
 This project showcases a complete **data analytics pipeline** — from raw transactional data → clean & structured modeling → SQL-powered KPIs → visually compelling Power BI dashboard.
