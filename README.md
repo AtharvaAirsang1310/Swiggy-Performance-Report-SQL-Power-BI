@@ -143,7 +143,13 @@ This type of analysis helps food delivery platforms like **Swiggy / Zomato** to:
 
 Here are some key views from the interactive Power BI dashboard:
 
+<img width="1334" height="856" alt="Screenshot 2026-03-12 195657" src="https://github.com/user-attachments/assets/6f3c6b85-3748-4251-8ef2-c768a2b9eac9" />
 
+<img width="1334" height="857" alt="Screenshot 2026-03-12 195722" src="https://github.com/user-attachments/assets/67ce1b0c-1f79-40ff-ac0e-aacc3c0c74e1" />
+
+<img width="1333" height="857" alt="Screenshot 2026-03-12 195741" src="https://github.com/user-attachments/assets/ba46870a-2359-4e98-91a3-2123e3817044" />
+
+---
 
 ## 📌 Conclusion
 
