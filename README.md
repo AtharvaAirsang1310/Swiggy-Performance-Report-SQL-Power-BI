@@ -99,4 +99,53 @@ FROM fact_swiggy_orders;
 | Average Dish Price   | ₹264.36   |
 | Average Rating       | 4.34      |
 
+---
+
 ## 🔄 Complete Data Analysis Workflow
+
+Raw Dataset
+↓
+SQL – Data Cleaning & Transformation
+↓
+Star Schema Modeling (Fact + Dimensions)
+↓
+KPI Development (SQL)
+↓
+Power BI – Import & Data Model
+↓
+DAX Measures & Calculated Columns
+↓
+Interactive Dashboard Creation
+↓
+Business Insights & Recommendations
+
+---
+
+## 💡 Skills Demonstrated
+
+- Advanced SQL querying & data modeling
+- Star schema design for analytics
+- KPI definition and calculation
+- Power BI dashboard design & visual storytelling
+- DAX for business logic & dynamic measures
+- Turning raw data into actionable business insights
+
+---
+
+## 🚀 Business Value & Impact
+
+This type of analysis helps food delivery platforms like **Swiggy / Zomato** to:
+
+- Understand **customer ordering patterns** (time-based, category, geography)
+- Identify **top-performing restaurants** and underperformers
+- Optimize **menu offerings** (popular dishes & high-margin categories)
+- Analyze **geographic demand** for city/region-specific expansion & marketing
+- Improve **customer satisfaction** through rating trends and feedback insights
+
+---
+
+## 📌 Conclusion
+
+This project showcases a complete **data analytics pipeline** — from raw transactional data → clean & structured modeling → SQL-powered KPIs → visually compelling Power BI dashboard.
+
+By transforming ₹45.81M+ worth of orders into clear patterns and recommendations, the analysis empowers stakeholders to make faster, smarter, **data-driven decisions** in a highly competitive food delivery market.
